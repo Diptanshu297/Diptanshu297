@@ -21,22 +21,13 @@ I’m a **second-year B.Tech student in Electronics & Computer Engineering at Ma
 ---
 
 ## 🏆 Hackathon Wins & Challenges
-- **Backend Lead — Generative AI on AWS** (Campus Hackathon ’25)  
+- **Backend Lead — Generative AI on AWS** (Hackathon ’25)  
 - **Most Innovative Solution — Supply-Chain Optimization Microservice** (CodeBasics Challenge ’24)  
-- **Best Use of ML APIs — Manipal HackNITR ’24)
-
----
-
-## 📚 Learning & Community
-- Publish blog posts and short tutorials on AI workflows, data structures, and OOP.  
-- Contribute to open-source (bug fixes & docs) and review peers’ PRs.  
-- Organise campus tech meet-ups and mentor juniors in DS-Algo.
 
 ---
 
 ## 🎯 Looking For
-- **Internships** to apply AI/ML & full-stack skills to real-world problems.  
-- **Mentorship** in large-scale system design and responsible-AI practices.  
+- **Internships** to apply AI/ML & full-stack skills to real-world problems.    
 - **Collaborative Projects** with teams that value clean code, creativity, and continuous learning.
 
 > *Let’s connect and build something impactful together!*
