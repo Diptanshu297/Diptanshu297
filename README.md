@@ -1,5 +1,45 @@
-# 💫 About Me:
-I’m a second-year student at Manipal Institute of Technology, driven by an enthusiasm for turning ideas into real-world tech solutions. Since stepping onto campus I’ve immersed myself in projects that span full-stack web development, AI/ML, and data-driven problem-solving—building everything from deepfake-detection pipelines to demand-forecasting models and supply-chain optimization microservices.<br><br>Beyond coursework, I thrive in hackathon environments where rapid prototyping, collaboration, and creative thinking meet tight deadlines. Recent wins include leading the backend for a Generative AI app on AWS and shipping a Temporal Fusion Transformer forecasting tool that integrates seamlessly with a Node.js/MongoDB stack. I’m comfortable moving across the stack—React + Vite on the front end; FastAPI, Express.js, and Dockerized services on the back—while following sound software-engineering practices (version control, CI/CD, unit testing).<br><br>I love learning in public: sharing insights through blog posts, open-source contributions, and peer tutoring sessions on data structures and OOP. When I’m not coding, you’ll find me exploring UI/UX trends, digging into Python libraries, or planning the next campus tech meetup.
+# 💫 About Me  
+I’m a **second-year B.Tech student in Electronics & Computer Engineering at Manipal Institute of Technology**, driven by an enthusiasm for turning ideas into production-ready tech solutions.
+
+---
+
+## 🛠️ Technical Toolkit
+- **Full-stack Web** | React + Vite · Tailwind · Express.js · FastAPI  
+- **AI / ML** | PyTorch · Transformers · Temporal Fusion Transformer (TFT)  
+- **DevOps** | Docker · Docker Compose · AWS (EC2, S3, Lambda)  
+- **Best Practices** | Git & GitHub Flow · CI/CD · Unit testing (PyTest/Jest)
+
+---
+
+## 🚀 Project Highlights
+| Project | Stack | What I built |
+|---------|-------|--------------|
+| **DeepTrust AI** (deepfake detection) | FastAPI · PyTorch · OpenCV · React | End-to-end multimedia forgery detection with face-tracking & CLIP-based fact-checking |
+| **Demand-Forecasting Service** | PyTorch Forecasting · TFT · Node.js/MongoDB | Multiseries sales predictor feeding an OR-Tools inventory optimizer |
+| **Generative AI Job-Post App** | AWS Lambda · Express.js · React | Backend lead; shipped image-&-text generator with S3 storage and JWT auth |
+
+---
+
+## 🏆 Hackathon Wins & Challenges
+- **Backend Lead — Generative AI on AWS** (Campus Hackathon ’25)  
+- **Most Innovative Solution — Supply-Chain Optimization Microservice** (CodeBasics Challenge ’24)  
+- **Best Use of ML APIs — Manipal HackNITR ’24)
+
+---
+
+## 📚 Learning & Community
+- Publish blog posts and short tutorials on AI workflows, data structures, and OOP.  
+- Contribute to open-source (bug fixes & docs) and review peers’ PRs.  
+- Organise campus tech meet-ups and mentor juniors in DS-Algo.
+
+---
+
+## 🎯 Looking For
+- **Internships** to apply AI/ML & full-stack skills to real-world problems.  
+- **Mentorship** in large-scale system design and responsible-AI practices.  
+- **Collaborative Projects** with teams that value clean code, creativity, and continuous learning.
+
+> *Let’s connect and build something impactful together!*
 
 
 ## 🌐 Socials:
