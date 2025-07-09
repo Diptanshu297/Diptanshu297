@@ -21,8 +21,7 @@ I’m a **second-year B.Tech student in Electronics & Computer Engineering at Ma
 ---
 
 ## 🏆 Hackathon Wins & Challenges
-- **Backend Lead — Generative AI on AWS** (Hackathon ’25)  
-- **Most Innovative Solution — Supply-Chain Optimization Microservice** (CodeBasics Challenge ’24)  
+- **Backend Lead — Generative AI on AWS** (Hackathon ’25)   
 
 ---
 
@@ -52,4 +51,4 @@ I’m a **second-year B.Tech student in Electronics & Computer Engineering at Ma
 ---
 [![](https://visitcount.itsvg.in/api?id=Diptanshu297&icon=3&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
